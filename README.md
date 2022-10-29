@@ -3,7 +3,8 @@ A Java Spring-Boot Application to add Aliens and do CRUD Operations on them.
 Created With: Java, SpringBoot Framework, Bootstrap, CSS, JSP and H2 DataBase.
 Download the Project and you are good to go!
 
-Every Alien has 5 Columns: a) Id / Serial_Number, b)Alien Name. Id is the Primary Key
+Every Alien has 5 Columns: a) Id / Serial_Number, b)Alien Name. 
+                                                            ********"Id is the Primary Key"********
 
 Steps on Use: 1] Open the project on IntelliJ or Eclipse or STS. Run it, Tomcat will start at port 8080. Use "http://localhost:8080", to go the Entry Page.
 
